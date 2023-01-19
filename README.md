@@ -7,7 +7,7 @@ Edit this **README.md** file. Write an outline of a project that you would be pr
 
 Use the **Wiki** (see the Wiki link in the navigation bar above) to create detailed specifications.
 
-You don't have to think yet about _how_ to achieve the goals that you describe. You can simple focus on _what_ your goals are.
+You don't have to think yet about _how_ to achieve the goals that you describe. You can simply focus on _what_ your goals are.
 
 As you continue through the DCI course, think about how each new concept could help you achieve one or more of your goals.
 
